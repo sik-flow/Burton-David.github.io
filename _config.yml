@@ -1,11 +1,11 @@
 # Site settings
 author: David Burton
-title: 
+title: Math Teacher to Data Guru
 header-img: img/home-bg.png
 email: davidgburton@yahoo.com
 copyright_name: David Burton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A math teacher's journey into data science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: notacyborg4long
 github_username:  Burton-David
