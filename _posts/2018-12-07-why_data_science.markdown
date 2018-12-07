@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Why Data Science"
-date:       2018-12-07 17:19:28 +0000
+date:       2018-12-07 12:19:29 -0500
 permalink:  why_data_science
 ---
 
 
 ###### My departure from teaching math marks the official starting point of this journey.  However, it is a role that I have been preparing towards, for quite some time.  
 
-My first exposure to the possibilities of statistical analysis when applied to technology was just about 2 years ago.  I created a tech start-up with my brother.  Our product measures the heavy metals of a consumer's drinking water.  Collects that data, compares it to existing measurements in the area and alerts the consumer of unsafe levels or even rising levels that can indicate the recent degradation of their water sources pipes.  
+My first exposure to the possibilities of statistical analysis when applied to technology was just about 2 years ago.  I created a tech start-up with my brother.  Our product measures the heavy metals of a consumer's drinking water.  Collects that data, compares it to existing measurements in the area and alerts the consumer of unsafe levels or even rising levels that can indicate the recent degradation of their water pipes.  
 
 I built the device's hardware based upon my brother's idea. And as head of product development, it was my job to find someone who could solve the programming and data side of the problem.  We were participating in an IOT incubator at the time, it was a great experience where I learned a lot about start-ups and marketing myself, the largest obstacle was finding additional help when my entire day was already packed with meetings teaching me to be a businessman.    I needed a minimal viable product and working prototype before the first round of angel investor pitches in about a week.  I thought the data side would be simple, after all it is just collecting one number and comparing a few others.  
 
