@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Visualization "
-date:       2019-01-06 23:53:12 +0000
+date:       2019-01-06 18:53:13 -0500
 permalink:  data_visualization
 ---
 
